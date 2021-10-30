@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ClickerCapitole",
+    "slug": "ClickerCapitole",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ClickerCapitole"
+}
