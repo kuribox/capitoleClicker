@@ -1,11 +1,15 @@
 {
   "expo": {
-    "name": "ClickerCapitole",
-    "slug": "ClickerCapitole",
+    "name": "a",
+    "slug": "a",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "android": {
+      "package": "com.test.clicker"
+    }
   },
   "name": "ClickerCapitole"
 }
